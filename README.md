@@ -1,7 +1,5 @@
 
-# Exam #3: "Guess Who?"
-## Student: s314140 IRMAK GIZEM 
-
+# Guess Who?
 
 ## Registered Users
 
