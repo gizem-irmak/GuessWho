@@ -1,0 +1,81 @@
+
+.animal{
+  width:350px;
+  height: 200px;
+  width:100%;
+  margin-bottom: 30px;
+  border: 3px solid grey;
+  border-radius: 5px;
+  padding:5px;
+}
+
+.btn-guess{
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+.frm-guess{
+  margin: 15px 15px;
+}
+
+.btn-lg{
+  margin: 20px;
+  border: 1px solid blue;
+  border-radius: 15px;
+}
+
+.disabled{
+  filter: brightness(0.2); /* Adjust brightness for revealed items */
+  opacity: 0.5; /* Adjust opacity for revealed items */
+  pointer-events: none; /* Disable click events on disabled items */
+}
+
+.start-btn{
+  margin-bottom: 20px;
+}
+
+.big-bold-text {
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar-padding {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.game-board{
+margin-top: 100px;
+margin-bottom: 50px;
+margin-right: 35px;
+margin-left: 35px;
+}
+
+.animal-history{
+  width:130px;
+  height: 130px; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 3px solid grey;
+  border-radius: 5px;
+  padding:5px;
+}
+
+.history{
+  margin-top: 100px;
+  margin-right:200px;
+  margin-left: 200px;
+
+}
+
+.frm-login{
+  margin-top: 200px;
+}
+
+.difficulty-text{
+  margin: 20px;
+}
+
+
+

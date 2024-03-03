@@ -1,0 +1,20 @@
+# Retrieving all the films.
+GET http://localhost:3001/api/easy HTTP/1.1
+###
+
+POST  http://localhost:3001/api/start HTTP/1.1
+###
+
+POST  http://localhost:3001/api/guess HTTP/1.1
+###
+
+POST  http://localhost:3001/api/match HTTP/1.1
+###
+
+GET http://localhost:3001/api/sessions HTTP/1.1
+
+###
+
+GET http://localhost:3001/api/history HTTP/1.1
+
+###
